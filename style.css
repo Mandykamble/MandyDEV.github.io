@@ -89,7 +89,7 @@ color: white;
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 500px;
+    height: 700px;
     /* background-image:url(/geeks-2894621__340.webp) ; */
     background-repeat: no-repeat;
     background-size: cover;
@@ -146,7 +146,7 @@ color: white;
     display: flex;
     flex-direction: column;
     align-items: center;
-    height: 500px;
+    height: 700px;
    border: 5px solid black;
    margin: 10px;
 }
